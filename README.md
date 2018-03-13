@@ -12,6 +12,6 @@
 
 ユーザー名変更や削除でprさんのコメントの返信先が分からなかったもの
 
-- all_comments.csv
+- all_comments.json
 
 プライベートAPIで取得した生のコメント全件データ
